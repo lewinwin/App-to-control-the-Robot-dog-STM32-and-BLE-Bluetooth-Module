@@ -1,0 +1,12 @@
+# Build output (regenerable via build.sh)
+/build/
+
+# Signing sidecar
+*.apk.idsig
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
